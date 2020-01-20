@@ -3,12 +3,6 @@
 #include <time.h>
 #include <string.h>
 
-/* 19010011027 - Mehmet Emin Ozkurkculer */
-
-/* Bulmaca icerisinde soldan saga, sagdan sola, yukaridan asagi, asagidan yukari, sag ust capraz, sol ust capraz, sag alt capraz, sol alt caprazda aratma yapmaktadir. */
-
-/* Kelime aratma kisimlarinda sayaci arttirdigim yerdeki ifleri bir fonksiyon olarak yazabilirdim fakat her bir sayacin sayaci farkli oldugu icin nasil yapacagimi cozemedim */
-
 int main()
 {
     int a, b, Count = 0, SecondCount = 0, ThirdCount = 0, FourthCount = 0, FifthCount = 0, SixthCount = 0, SeventhCount = 0, EighthCount = 0, k, l;
